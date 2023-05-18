@@ -67,8 +67,8 @@ const results = (matches) => {
   } else {
     matchList.innerHTML = `
     <div class="row">
-      <div>
-          <h1 class="text-center">Data Not Found!</h1>
+      <div class="vh-100 d-flex justify-content-center align-items-center text-info">
+          <h3 class="text-center">Sorry, Can't Find This Staff!</h1>
       </div>
     </div>
     `;
