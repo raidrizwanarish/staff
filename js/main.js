@@ -40,7 +40,8 @@ const results = (matches) => {
           </div>
           <div class="col-7">
             <div>
-              <h5 class="card-title mt-2 fs-4">${match.name}</h5><hr class="m-0 p-0">
+              <h5 class="card-title mt-2 fs-4 text-dark">${match.name}</h5>
+              <hr class="m-0 p-0">
               <p class="card-text m-0 fw-semibold">${match.designation}</p>
               <p class="card-text m-0"><i class="fa-solid fa-house-user"></i> ${match.dept}</p>
               <!--  <p class="card-text m-0"><i class="fa-solid fa-calendar-days"></i> ${match.joiningdate}</p> -->
