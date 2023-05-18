@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Masum Reza",
+    "designation": "Instructor (Computer)",
+    "dept": "ICT",
+    "workplace": "Narail",
+    "joiningdate": "01-Jun-2014",
+    "dob": "02-Feb-1990",
+    "mobile": "01720446526",
+    "email": "mmr.masumreza@gmail.com",
+    "img": "../img/1.jpg"
+  },
+  {
+    "name": "Raid Rizwan Arish",
+    "designation": "Instructor (Computer)",
+    "dept": "ICT",
+    "workplace": "Narail",
+    "joiningdate": "01-Jun-2012",
+    "dob": "02-July-1982",
+    "mobile": "01720446526",
+    "email": "mmr.masumreza@gmail.com",
+    "img": "../img/2.jpg"
+  },
+  {
+    "name": "Rizwan Ahmed",
+    "designation": "Assistant Programmer",
+    "dept": "ICT",
+    "workplace": "Narail",
+    "joiningdate": "01-Jun-2014",
+    "dob": "02-July-1985",
+    "mobile": "01720446526",
+    "email": "mmr.masumreza@gmail.com",
+    "img": "../img/3.jpg"
+  },
+  {
+    "name": "Ashikuzzaman Ashik",
+    "designation": "Assistant Programmer",
+    "dept": "ICT",
+    "workplace": "Narail",
+    "joiningdate": "01-Jun-2011",
+    "dob": "02-July-1983",
+    "mobile": "01720446526",
+    "email": "mmr.masumreza@gmail.com",
+    "img": "../img/4.jpg"
+  }
+]
